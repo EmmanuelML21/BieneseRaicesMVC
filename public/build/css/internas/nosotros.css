@@ -1,0 +1,2 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:300,400,700,900");@media (min-width:768px){.contenedor-nosotros{display:grid;gap:2.5rem;grid-template-columns:repeat(2,1fr)}}.contenedor-nosotros blockquote{font-size:2.2rem;font-weight:900;margin:3rem 0 0;padding-left:1rem 0 3rem 0}@media (min-width:768px){.contenedor-nosotros blockquote{margin:0}.imagen-nosotros{position:relative}.imagen-nosotros picture{bottom:65rem;position:absolute}}@media (min-width:1024px){.imagen-nosotros picture{bottom:10rem}}
+/*# sourceMappingURL=nosotros.css.map */
