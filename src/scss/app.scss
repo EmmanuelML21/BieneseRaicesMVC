@@ -1,0 +1,22 @@
+@forward 'base/normalize';
+@forward 'base/variables';
+@forward 'base/mixins';
+@forward 'base/globales';
+@forward 'base/utilidades';
+@forward 'base/botones.scss';
+@forward 'base/darkMode';
+
+/**UI**/
+@forward'layout/header.scss';
+@forward'layout/footer.scss';
+@forward'layout/navegacion.scss';
+@forward'layout/iconos.scss';
+@forward'layout/anucios.scss';
+@forward'layout/contactar.scss';
+@forward'layout/inferior.scss';
+@forward'layout/testimoniales.scss';
+@forward'layout/formulario.scss';
+
+/**Paginas Internas**/
+@forward'internas/nosotros.scss';
+@forward'internas/admin.scss';

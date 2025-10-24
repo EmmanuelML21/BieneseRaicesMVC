@@ -1,0 +1,22 @@
+{
+    "name": "emame/bienesraices_inicio_poo",
+    "description": "Creando proyecto POO",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Emmanuel Menses Lopez",
+            "email": "emamenlop21@gmail.com"
+        }
+    ],
+    "require": {
+        "intervention/image": "^3.11",
+        "phpmailer/phpmailer": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Model\\" :"./models",
+            "MVC\\" :"./",
+            "Controllers\\" :"./controllers"
+        }
+    }
+}
